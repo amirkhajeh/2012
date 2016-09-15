@@ -439,7 +439,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/SEEDTEAM/TeleSeed.git
+git clone https://github.com/amirkhajeh/2012.git
 cd TeleSeed
 chmod +x launch.sh
 ./launch.sh install
